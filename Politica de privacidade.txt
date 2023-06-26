@@ -1,0 +1,35 @@
+Política de Privacidade para Aplicação de Desenvolvimento Acadêmico para Tarefas Infantis
+
+Esta Política de Privacidade descreve como a aplicação de desenvolvimento acadêmico para tarefas infantis coleta, usa e protege as informações pessoais dos usuários. Ao utilizar nossa aplicação, você concorda com as práticas descritas nesta política.
+
+1. Informações Coletadas:
+   - Informações de Identificação Pessoal: Podemos coletar informações como nome, idade, endereço de e-mail ou outras informações de contato necessárias para criar e gerenciar a conta do usuário.
+   - Informações de Uso: Podemos coletar informações sobre o uso da aplicação, como atividades realizadas, desempenho em tarefas, interações com elementos da aplicação, tempo gasto em diferentes seções, etc.
+
+2. Uso das Informações:
+   - Personalização e Melhoria da Experiência do Usuário: Utilizamos as informações coletadas para personalizar a experiência do usuário, adaptando o conteúdo, as tarefas e as recomendações de acordo com suas preferências e necessidades.
+   - Comunicações: Podemos utilizar o endereço de e-mail fornecido para enviar informações importantes relacionadas à conta, atualizações da aplicação, notícias ou outras comunicações relevantes.
+   - Pesquisas e Análises: Podemos utilizar as informações para realizar pesquisas internas, análises de uso e estudos estatísticos, com o objetivo de aprimorar nossa aplicação e entender as necessidades dos usuários.
+
+3. Compartilhamento de Informações:
+   - Parceiros e Prestadores de Serviços: Podemos compartilhar informações com parceiros e prestadores de serviços que nos auxiliam no fornecimento da aplicação. Essas empresas estão sujeitas a obrigações contratuais de confidencialidade e só poderão utilizar as informações de acordo com nossas instruções.
+   - Requisitos Legais: Em determinadas circunstâncias, podemos ser obrigados a divulgar informações pessoais em resposta a solicitações legais ou cumprir com requisitos legais e regulatórios.
+
+4. Segurança das Informações:
+   - Implementamos medidas de segurança adequadas para proteger as informações pessoais dos usuários contra acesso não autorizado, divulgação ou alteração. No entanto, é importante ressaltar que nenhum sistema de segurança é completamente impenetrável.
+
+5. Retenção de Informações:
+   - Manteremos as informações pessoais dos usuários apenas pelo tempo necessário para cumprir as finalidades descritas nesta política de privacidade, a menos que um período de retenção mais longo seja exigido ou permitido por lei.
+
+6. Consentimento dos Pais ou Responsáveis:
+   - Caso a aplicação seja utilizada por crianças menores de idade, é necessário o consentimento dos pais ou responsáveis antes da coleta de informações pessoais das crianças.
+
+7. Direitos dos Usuários:
+   - Os usuários têm o direito de acessar, corrigir ou excluir suas informações pessoais, bem como solicitar a suspensão do uso ou a exclusão de suas contas.
+
+8. Alterações na Política de Privacidade:
+   - Podemos atualizar esta política de privacidade ocasionalmente. Recomendamos que os usuários revejam periodicamente a política para se man
+
+terem informados sobre as práticas de privacidade.
+
+Entre em contato conosco em caso de dúvidas ou preocupações relacionadas à privacidade.
